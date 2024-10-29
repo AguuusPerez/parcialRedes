@@ -1,0 +1,11 @@
+Consigna 
+
+Se pide crear 4 vlans a partir del subneteo de la red 172.221.211.0 cada red tiene q tener como maximo 64 host diponibles
+- Instalación del Switch: Instalar un Switch 3560 con el nombre undermetal y configurarle la contraseña "entradas"
+
+
+conf de vlans
+1-vlan debe ser llamada "Interceptor" con 4 puertos asignados y conectado 2 servidores y de dhcp con mobre de "LUIS" y el otro de DNS con nombre "SEBAS".
+2-vlan debe llamarse "Batial" que contenga 4 computadoras las cuales tienen q obtener ip dinamicamente nombre B1, B2, B3 y B4 respectivamente
+3-vlan debe llamarse "velocidad22" que contenga 4 computadoras las cuales tienen q obtener ip dinamicamente nombres de los equipos V1, V2, V3 y V4 respectivamente
+4-vlan debe llamarse "tempano" que contengan dos conputadoras la cual una de ella se debe llamar "RUSO" con ip fija y debe conectarse al switch por telnet. La otra restante debe tener ip dinamica y debe llamarse "ABTERO"
