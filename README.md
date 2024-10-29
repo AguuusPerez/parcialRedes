@@ -16,5 +16,5 @@
 
 **Have fun building!** 🚀
 
-## Prof: Rusatti Lucas
-IFTS 18
+## IFTS 18
+Prof: Rusatti Lucas
