@@ -15,3 +15,6 @@
 - GitHub - [Daniel Acevedo](https://github.com/daacevedo)
 
 **Have fun building!** 🚀
+
+## Prof: Rusatti Lucas
+IFTS 18
